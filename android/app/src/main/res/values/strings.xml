@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FsvMusic</string>
+    <string name="facebook_app_id">493670847645966</string>
+    <string name="fb_login_protocol_scheme">fb493670847645966</string>
+</resources>
